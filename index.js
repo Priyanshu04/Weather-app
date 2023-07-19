@@ -66,7 +66,7 @@ else if(data.weather[0].main=="Clear"){
  else if(data.weather[0].main=="Mist"){
     whethericon.src="./images/mist.png"
  }
- document.querySelector(".whether").style.display="block";
+ document.querySelector(" .whether").style.display="block";
  
 }
 
